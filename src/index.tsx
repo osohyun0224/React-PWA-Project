@@ -5,6 +5,9 @@ import App from './App';
 import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 import reportWebVitals from './reportWebVitals';
 
+
+serviceWorkerRegistration.register();
+
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
