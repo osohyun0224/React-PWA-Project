@@ -7,3 +7,10 @@
 
 ### 📌 기존 PWA 공부 흔적 
 [Vue.js 프로젝트에 PWA 적용 삽질기](https://github.com/osohyun0224/Vue.js_PWA_Apply_hallymfestival)
+
+### 📌 React + PWA-CRA-Template
+- [PWA REACT TEMPLATE](https://create-react-app.dev/docs/making-a-progressive-web-app/)
+- [PWA REACT TEMPLATE- repo](https://github.com/cra-template/pwa)
+
+### 📌 개발 기록 블로그 바로 확인하기
+- [React 프로젝트에 PWA 적용하기-velog](https://velog.io/@osohyun0224/React-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-PWA-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
